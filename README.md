@@ -1,6 +1,3 @@
-![Deep](http://fastml.com/images/tensorflow/i_dont_always_use_deep_learning.jpg "Deep")
-
-
 # First Steps - Interactive DataViz - TensorFlow in your browser
 http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.39171&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification
 http://cs.stanford.edu/people/karpathy/convnetjs/
@@ -24,8 +21,6 @@ Public AMI in US-East(N. Virginia): ami-9d0f3ff7
 pip install --upgrade https://storage.googleapis.com/tensorflow/linux/tensorflow-0.8.0rc0-py2-none-any.whl
 https://databricks.com/blog/2016/01/25/deep-learning-with-spark-and-tensorflow.html
 
-
-![Hot](https://i.imgflip.com/12i14k.jpg "So hot right now")
 
 # sklearners can find the TensofFlow sklearn API
 "To smooth the transition from the `Scikit Learn world of one-liner machine learning` into the more open world of building different shapes of ML models. You can start by using fit/predict and slide into TensorFlow APIs as you are getting comfortable."
